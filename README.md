@@ -1,5 +1,3 @@
-
-
 ```bash
 # Instalando as dependências
 $ yarn
@@ -7,4 +5,3 @@ $ yarn
 # Executanto aplicação
 $ yarn next
 ```
-
